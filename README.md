@@ -1,5 +1,16 @@
-## Introduction
+## Readme
 
+This repo contains the assignment results of the Exloratory Data Analysis course. It was originally forked from 
+[https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1), and it has been modified to include two new folders:
+
+ - Assignment_figures
+ - Assignment_code
+ 
+ They each contain 4 files each named **plot#.png** and **plot#.R**, with the figure requested and the code used to create it. Assignment_code also contains the **.txt** file with the data used to create the plots.
+
+The content of the original *Readme.md* file with the instructions of the assignment is shown below:
+
+## Introduction 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
