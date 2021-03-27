@@ -6,7 +6,7 @@ This repo contains the assignment results of the Exloratory Data Analysis course
  - Assignment_figures
  - Assignment_code
  
- They each contain 4 files each named **plot#.png** and **plot#.R**, with the figure requested and the code used to create it. Assignment_code also contains the **.txt** file with the data used to create the plots.
+ They each contain 4 files each named **plot#.png** and **plot#.R**, with the figure requested and the code used to create it. Assignment_code also contains the compressed **.txt** file with the data used to create the plots. Before aiming to run the code, you should unzip this file in the same folder.
 
 The content of the original *Readme.md* file with the instructions of the assignment is shown below:
 
